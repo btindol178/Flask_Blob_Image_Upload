@@ -5,7 +5,7 @@ Git repository of project built in this tutorial: https://tomlogs.github.io/buil
 
 # Go to storage and create container
 # Get keys
-# Set enviornment variable like below:
+# Set enviornment variable like below: (In commandline cmd)
     - Get azure connection string then set it by doing set AZURE_STORAGE_CONNECTION_STRING="connectionstring"
     - set AZURE_STORAGE_CONNECTION_STRING="connectionstring"
 
